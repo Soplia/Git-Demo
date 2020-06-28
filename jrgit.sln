@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "jrgit", "jrgit\jrgit.pyproj", "{32FF6D46-0FB7-4CCB-A63E-A75FBC7098CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32FF6D46-0FB7-4CCB-A63E-A75FBC7098CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32FF6D46-0FB7-4CCB-A63E-A75FBC7098CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44C12514-A160-4CD7-B330-34A760195E1A}
+	EndGlobalSection
+EndGlobal
